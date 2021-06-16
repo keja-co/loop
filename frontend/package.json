@@ -1,0 +1,16 @@
+{
+  "name": "keja-loop-frontend",
+  "version": "1.0.0",
+  "description": "Keja Loop Frontend",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "keja",
+    "loop",
+    "intranet"
+  ],
+  "author": "Keja.co",
+  "license": "MIT"
+}
